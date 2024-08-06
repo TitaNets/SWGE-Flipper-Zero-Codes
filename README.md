@@ -1,4 +1,4 @@
-# Star Wars: Galaxy's Edge Codes for Flipper Zero
+# Star Wars: Galaxy's Edge Aztec Codes Emulator for Flipper Zero
 A collection of Star Wars Galaxy's Edge aztec codes for the datapad mobile app.
 
 The SWGE and Libs folder must be uploaded to the SD Card/apps/Scripts directory.

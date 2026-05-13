@@ -1,3 +1,8 @@
+⚠️ This project is no longer maintained.
+
+ This repository has been abandoned and will not receive updates, bug fixes, or support.
+ Feel free to fork it if you want to continue development.
+
 # Star Wars: Galaxy's Edge Aztec Codes Emulator for Flipper Zero
 A collection of Star Wars Galaxy's Edge aztec codes for the datapad mobile app.
 
